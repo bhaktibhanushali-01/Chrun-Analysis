@@ -327,10 +327,3 @@ It showcases practical skills in:
 ## 👩‍💻 Author
 
 **Bhakti Bhanushali**
-
-B.Tech in Artificial Intelligence & Machine Learning  
-Data Analyst | AI/ML Enthusiast
-
----
-
-⭐ Explore the notebook to see the complete analysis and implementation.
